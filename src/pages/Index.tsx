@@ -1,7 +1,6 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import PosterCards from "@/components/PosterCards";
-import CategoryGrid from "@/components/CategoryGrid";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -11,7 +10,6 @@ const Index = () => {
       <main>
         <HeroSection />
         <PosterCards />
-        <CategoryGrid />
       </main>
       <Footer />
     </div>
